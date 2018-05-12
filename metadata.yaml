@@ -1,0 +1,46 @@
+_repo: The-Indian-Drum_33065
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Benda, Wladyslaw T. (Wladyslaw Theodore)
+    aliases:
+    - Benda, W. (Wladyslaw)
+    - Benda, Wladyslaw Theodore
+    - Benda, W. T.
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '36188'
+    url: http://www.gutenberg.org/2009/agents/36188
+    wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_T._Benda
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Balmer, Edwin
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '36187'
+    url: http://www.gutenberg.org/2009/agents/36187
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Balmer
+  - agent_name: MacHarg, William
+    birthdate: 1872
+    deathdate: 1951
+    gutenberg_agent_id: '36186'
+    url: http://www.gutenberg.org/2009/agents/36186
+description: ''
+gutenberg_issued: '2010-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcsh 'Great Lakes Region (North America) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+title: The Indian Drum
+url: http://www.gutenberg.org/ebooks/33065
